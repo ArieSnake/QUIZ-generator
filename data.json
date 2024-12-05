@@ -1,0 +1,326 @@
+{
+  "quiz-results": [
+    {
+      "id": "ee15",
+      "username": "Meri",
+      "quizId": "101",
+      "quizName": "JavaScript Basics Quiz",
+      "selectedAnswers": [
+        {
+          "questionId": "102",
+          "questionText": "What is the correct syntax to declare a variable in JavaScript?",
+          "selectedAnswer": "C. const x",
+          "correctAnswer": "D. all of the above"
+        },
+        {
+          "questionId": "103",
+          "questionText": "Which of the following is a primitive data type in JavaScript?",
+          "selectedAnswer": "C. Number",
+          "correctAnswer": "C. Number"
+        }
+      ],
+      "correctAnswers": 1,
+      "wrongAnswers": 1
+    },
+    {
+      "id": "cd26",
+      "username": "5bvtrbh",
+      "quizId": "101",
+      "quizName": "JavaScript Basics Quiz",
+      "selectedAnswers": [
+        {
+          "questionId": "102",
+          "questionText": "What is the correct syntax to declare a variable in JavaScript?",
+          "selectedAnswer": "B. let x",
+          "correctAnswer": "D. all of the above"
+        },
+        {
+          "questionId": "103",
+          "questionText": "Which of the following is a primitive data type in JavaScript?",
+          "selectedAnswer": "B. Object",
+          "correctAnswer": "C. Number"
+        }
+      ],
+      "correctAnswers": 0,
+      "wrongAnswers": 2
+    },
+    {
+      "id": "f4e7",
+      "username": "Vahag",
+      "quizId": "101",
+      "quizName": "JavaScript Basics Quiz",
+      "selectedAnswers": [
+        {
+          "questionId": "102",
+          "questionText": "What is the correct syntax to declare a variable in JavaScript?",
+          "selectedAnswer": "A. var x",
+          "correctAnswer": "D. all of the above",
+          "explanation": "All of the options are correct ways to declare variables in JavaScript, depending on the context."
+        },
+        {
+          "questionId": "103",
+          "questionText": "Which of the following is a primitive data type in JavaScript?",
+          "selectedAnswer": "A. Array",
+          "correctAnswer": "C. Number",
+          "explanation": "Number is a primitive data type in JavaScript, while Array, Object, and Function are non-primitive."
+        }
+      ],
+      "correctAnswers": 0,
+      "wrongAnswers": 2
+    },
+    {
+      "id": "a8e5",
+      "username": "vahag",
+      "quizId": "101",
+      "quizName": "JavaScript Basics Quiz",
+      "selectedAnswers": [
+        {
+          "questionId": "102",
+          "questionText": "What is the correct syntax to declare a variable in JavaScript?",
+          "selectedAnswer": "C. const x",
+          "correctAnswer": "D. all of the above",
+          "explanation": "All of the options are correct ways to declare variables in JavaScript, depending on the context."
+        },
+        {
+          "questionId": "103",
+          "questionText": "Which of the following is a primitive data type in JavaScript?",
+          "selectedAnswer": "C. Number",
+          "correctAnswer": "C. Number",
+          "explanation": "Number is a primitive data type in JavaScript, while Array, Object, and Function are non-primitive."
+        }
+      ],
+      "correctAnswers": 1,
+      "wrongAnswers": 1
+    },
+    {
+      "id": "471a",
+      "username": "vahag",
+      "quizId": "a6f9",
+      "quizName": "JS the Definitive Guide",
+      "selectedAnswers": [
+        {
+          "questionId": "1731836955806",
+          "questionText": "console.log(5n/2n)",
+          "selectedAnswer": "2n",
+          "correctAnswer": "2n",
+          "explanation": "just"
+        },
+        {
+          "questionId": "1731836914951",
+          "questionText": "console.log(5 <= 5n)  ",
+          "selectedAnswer": "false",
+          "correctAnswer": "true",
+          "explanation": "its true"
+        },
+        {
+          "questionId": "1731836954509",
+          "questionText": "console.log(5 == 5n)",
+          "selectedAnswer": "true",
+          "correctAnswer": "true",
+          "explanation": "its true"
+        },
+        {
+          "questionId": "1731836955053",
+          "questionText": "console.log(5 === 5n)",
+          "selectedAnswer": "false",
+          "correctAnswer": "false",
+          "explanation": "the types are different"
+        }
+      ],
+      "correctAnswers": 3,
+      "wrongAnswers": 1
+    }
+  ],
+  "users": [
+    {
+      "id": "300",
+      "username": "Ashot"
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "101",
+      "name": "JavaScript Basics Quiz",
+      "category": "Programming",
+      "questions": [
+        {
+          "id": "102",
+          "text": "What is the correct syntax to declare a variable in JavaScript?",
+          "options": [
+            "A. var x",
+            "B. let x",
+            "C. const x",
+            "D. all of the above"
+          ],
+          "correct": "D. all of the above",
+          "explanation": "All of the options are correct ways to declare variables in JavaScript, depending on the context."
+        },
+        {
+          "id": "103",
+          "text": "Which of the following is a primitive data type in JavaScript?",
+          "options": [
+            "A. Array",
+            "B. Object",
+            "C. Number",
+            "D. Function"
+          ],
+          "correct": "C. Number",
+          "explanation": "Number is a primitive data type in JavaScript, while Array, Object, and Function are non-primitive."
+        }
+      ]
+    },
+    {
+      "id": "102",
+      "name": "HTML & CSS Fundamentals",
+      "category": "Web Development",
+      "questions": [
+        {
+          "id": "201",
+          "text": "What does CSS stand for?",
+          "options": [
+            "A. Computer Style Sheets",
+            "B. Cascading Style Sheets",
+            "C. Creative Style Sheets",
+            "D. Colorful Style Sheets"
+          ],
+          "correct": "B. Cascading Style Sheets",
+          "explanation": "CSS stands for Cascading Style Sheets, used to style HTML elements."
+        },
+        {
+          "id": "202",
+          "text": "Which HTML tag is used to link an external CSS file?",
+          "options": [
+            "A. <link>",
+            "B. <style>",
+            "C. <script>",
+            "D. <css>"
+          ],
+          "correct": "A. <link>",
+          "explanation": "The <link> tag is used to link an external CSS file to an HTML document."
+        }
+      ]
+    },
+    {
+      "id": "103",
+      "name": "Advanced JavaScript Quiz",
+      "category": "Programming",
+      "questions": [
+        {
+          "id": "301",
+          "text": "What is the output of the following code: console.log([] == ![]);",
+          "options": [
+            "A. true",
+            "B. false",
+            "C. undefined",
+            "D. Error"
+          ],
+          "correct": "A. true",
+          "explanation": "In JavaScript, [] is an object, and ![] is coerced to a boolean. The expression [] == ![] evaluates to true."
+        },
+        {
+          "id": "302",
+          "text": "Which of the following is a feature of ES6 (ECMAScript 2015)?",
+          "options": [
+            "A. let and const",
+            "B. Arrow functions",
+            "C. Promises",
+            "D. All of the above"
+          ],
+          "correct": "D. All of the above",
+          "explanation": "ES6 introduced let/const, arrow functions, and Promises, among many other features."
+        }
+      ]
+    },
+    {
+      "id": "1bfa",
+      "name": "JS jun test",
+      "category": "JS",
+      "questions": [
+        {
+          "id": "1731510536535",
+          "text": "Which of the following is used to call a function named myFunction?",
+          "options": [
+            "call myFunction() ",
+            "myFunction[]",
+            "myFunction()",
+            "call function myFunction()"
+          ],
+          "correct": "myFunction()",
+          "explanation": "Explanation: Functions in JavaScript are called by using their name followed by parentheses (). Only option C correctly follows this syntax. Options A and D use unnecessary keywords, and option B is invalid syntax."
+        },
+        {
+          "id": "1731510632146",
+          "text": "How do you add a comment in JavaScript?",
+          "options": [
+            "<!-- This is a comment --> ",
+            " // This is a comment ",
+            "/* This is a comment */",
+            "Both B and C"
+          ],
+          "correct": "Both B and C",
+          "explanation": "Explanation: JavaScript allows single-line comments with // and multi-line comments with /* ... */. Option A is HTML comment syntax and isn’t used in JavaScript."
+        },
+        {
+          "id": "1731836549722",
+          "text": "console.log(Boolean([0]))",
+          "options": [
+            "true",
+            "false",
+            "SyntaxError"
+          ],
+          "correct": "true",
+          "explanation": "just its true"
+        }
+      ]
+    },
+    {
+      "id": "a6f9",
+      "name": "JS the Definitive Guide",
+      "category": "D.Flanagan",
+      "questions": [
+        {
+          "id": "1731836914951",
+          "text": "console.log(5 <= 5n)  ",
+          "options": [
+            "true",
+            "false",
+            "error"
+          ],
+          "correct": "true",
+          "explanation": "its true"
+        },
+        {
+          "id": "1731836954509",
+          "text": "console.log(5 == 5n)",
+          "options": [
+            "true",
+            "false"
+          ],
+          "correct": "true",
+          "explanation": "its true"
+        },
+        {
+          "id": "1731836955053",
+          "text": "console.log(5 === 5n)",
+          "options": [
+            "true",
+            "false"
+          ],
+          "correct": "false",
+          "explanation": "the types are different"
+        },
+        {
+          "id": "1731836955806",
+          "text": "console.log(5n/2n)",
+          "options": [
+            "2.5n",
+            "2n",
+            "error"
+          ],
+          "correct": "2n",
+          "explanation": "just"
+        }
+      ]
+    }
+  ]
+}
